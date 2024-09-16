@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcXUnitTest", "CalcXUnitTest.csproj", "{A0EFBCC0-514A-4B7C-A31A-33FBDA0D3A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnitTestWPFCalc", "..\xUnitTestWPFCalc\xUnitTestWPFCalc.csproj", "{74BE1F69-8784-4E5A-B2C4-054E72135374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0EFBCC0-514A-4B7C-A31A-33FBDA0D3A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0EFBCC0-514A-4B7C-A31A-33FBDA0D3A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0EFBCC0-514A-4B7C-A31A-33FBDA0D3A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0EFBCC0-514A-4B7C-A31A-33FBDA0D3A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BE1F69-8784-4E5A-B2C4-054E72135374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BE1F69-8784-4E5A-B2C4-054E72135374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BE1F69-8784-4E5A-B2C4-054E72135374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BE1F69-8784-4E5A-B2C4-054E72135374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93942246-FADB-4066-880F-391D24E90375}
+	EndGlobalSection
+EndGlobal
